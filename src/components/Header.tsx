@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Header() {
     return (
-        <section>
+        <div>
             <h1 className='text-4xl font-bold text-center mb-8'>
                 Welcome to My Portfolio
             </h1>
@@ -12,6 +12,6 @@ export default function Header() {
                 <br /> This is the section where I gonna show you the pic about
                 my self, maybe tell you a joke and so on
             </p>
-        </section>
+        </div>
     );
 }
