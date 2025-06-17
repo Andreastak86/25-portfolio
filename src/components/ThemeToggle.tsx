@@ -38,7 +38,7 @@ export default function ThemeToggle() {
     return (
         <button
             onClick={toggleTheme}
-            className='fixed top-4 right-4 bg-gray-500 text-black dark:text-white rounded-full px-3 py-2 shadow-md z-50'
+            className='fixed top-4 right-4 border-1 border-solid border-secondary text-black dark:text-white rounded-full px-3 py-2 shadow-md z-50'
             aria-label='Toggle dark mode'
         >
             {theme === "dark" ? "☀️" : "🌙"}
