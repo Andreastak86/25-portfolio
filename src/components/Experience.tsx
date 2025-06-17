@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Experience() {
     return (
-        <section>
+        <div>
             <h2 className='text-2xl font-bold text-center mb-8'>
                 This is the section about how much XP I already have
             </h2>
@@ -15,6 +15,6 @@ export default function Experience() {
                 nulla pariatur. Excepteur sint occaecat cupidatat non proident,
                 sunt in culpa qui officia deserunt mollit anim id est laborum.{" "}
             </p>
-        </section>
+        </div>
     );
 }
