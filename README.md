@@ -42,6 +42,7 @@ Tailwind Docs: https://tailwindcss.com/docs/installation/using-vite
 Vercel Deployment: https://vercel.com/docs
 
 🌍 Deploy
+
 Nettsiden lever og ånder på Vercel:
 Klikk her for å se liveversjonen (legg inn din link her)
 
