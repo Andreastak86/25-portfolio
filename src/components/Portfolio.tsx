@@ -14,6 +14,14 @@ export default function Portfolio() {
                 in reprehenderit in voluptate velit esse cillum dolore eu fugiat
                 nulla pariatur. Excepteur sint occaecat cupidatat non proident,
                 sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum
+                quaerat molestias illo? Cum ducimus iure, vel eius totam sit
+                tenetur doloremque aperiam suscipit corrupti, quaerat
+                laudantium! Tempora esse numquam ipsa? Lorem, ipsum dolor sit
+                amet consectetur adipisicing elit. Necessitatibus nulla harum,
+                omnis quidem fugit incidunt distinctio ratione eius atque id
+                temporibus? Vel aliquam id omnis nihil itaque perspiciatis
+                numquam eos!
             </p>
         </div>
     );

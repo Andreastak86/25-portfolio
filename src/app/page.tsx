@@ -4,6 +4,7 @@ import Experience from "@/components/Experience";
 import Portfolio from "@/components/Portfolio";
 import Contact from "@/components/Contact";
 import Header from "@/components/Header";
+import ScrollModal from "@/components/ScrollModal";
 
 export default function Home() {
     return (
@@ -24,6 +25,7 @@ export default function Home() {
             <section id='contact' className='w-full scroll-mt-32'>
                 <Contact />
             </section>
+            <ScrollModal />
         </main>
     );
 }
