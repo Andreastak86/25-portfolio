@@ -4,6 +4,7 @@ Velkommen til kildekoden bak Andreas sin portefølje – en side som ikke bare p
 Bygget med kjærlighet, kaffe og en liten dash dark mode-magikk.
 
 🚀 Kom i gang
+
 Kjør opp prosjektet lokalt med:
 
 npm run dev
@@ -14,6 +15,7 @@ Siden er bygget med Next.js, så alt oppdateres automatisk mens du koder.
 Du kan begynne å endre ting i src/app/page.tsx, men pass deg – det er her magien skjer ✨
 
 🔥 Teknisk meny
+
 Teknologi Hvorfor den er her
 Next.js 15 Fordi det er fremtiden – App Router og alt det der
 Tailwind CSS v4.1 Full kraft og all styling via globals.css – ingen tailwind.config.js her 😎
@@ -22,6 +24,7 @@ Vercel Fordi selvfølgelig deployer vi rett fra GitHub og lar Vercel fikse reste
 React Icons Fordi det finnes et ikon for alt, også Elg 🦌
 
 ✨ Spesielle funksjoner
+
 🔄 Dark/light mode med systemstøtte og toggle
 
 🧠 Scroll-aktiv modal som spør deg pent om du vil stalke Andreas på LinkedIn
@@ -33,6 +36,7 @@ React Icons Fordi det finnes et ikon for alt, også Elg 🦌
 💡 Favicon som faktisk ser bra ut (og er Rein god stil)
 
 📚 Lær mer
+
 Hvis du ikke er Andreas (😢), men fortsatt vil lære om hvordan dette ble laget, så anbefales:
 
 Next.js Docs: https://nextjs.org/docs
@@ -47,6 +51,7 @@ Nettsiden lever og ånder på Vercel:
 Klikk her for å se liveversjonen (legg inn din link her)
 
 🤝 Kontakt
+
 Lurer du på noe? Vil du ansette Andreas? Eller bare slå av en prat om hjort, scroll-observers eller lyspærer?
 
 Ta kontakt på LinkedIn eller besøk #contact-seksjonen på siden.
