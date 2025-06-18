@@ -1,4 +1,4 @@
-🦌 25-portfolio – Andreas sin neste digitale katedral
+🦌 25-portfolio – Andreas sin neste digitale katedral.
 Velkommen til kildekoden bak Andreas sin portefølje – en side som ikke bare presenterer kode, men puster, pulserer og snakker med stil (bokstavelig talt, sjekk navbaren 🔵💨).
 
 Bygget med kjærlighet, kaffe og en liten dash dark mode-magikk.
@@ -6,16 +6,8 @@ Bygget med kjærlighet, kaffe og en liten dash dark mode-magikk.
 🚀 Kom i gang
 Kjør opp prosjektet lokalt med:
 
-bash
-Kopier
-Rediger
 npm run dev
 
-# eller, hvis du insisterer:
-
-yarn dev
-pnpm dev
-bun dev
 🧭 Åpne http://localhost:3000
 Siden er bygget med Next.js, så alt oppdateres automatisk mens du koder.
 
@@ -43,17 +35,17 @@ React Icons Fordi det finnes et ikon for alt, også Elg 🦌
 📚 Lær mer
 Hvis du ikke er Andreas (😢), men fortsatt vil lære om hvordan dette ble laget, så anbefales:
 
-Next.js Docs
+Next.js Docs: https://nextjs.org/docs
 
-Tailwind Docs
+Tailwind Docs: https://tailwindcss.com/docs/installation/using-vite
 
-Vercel Deployment
+Vercel Deployment: https://vercel.com/docs
 
 🌍 Deploy
 Nettsiden lever og ånder på Vercel:
 Klikk her for å se liveversjonen (legg inn din link her)
 
 🤝 Kontakt
-Lurer du på noe? Vil du ansette Andreas? Eller bare slå av en prat om elg, scroll-observers eller lyspærer?
+Lurer du på noe? Vil du ansette Andreas? Eller bare slå av en prat om hjort, scroll-observers eller lyspærer?
 
 Ta kontakt på LinkedIn eller besøk #contact-seksjonen på siden.
