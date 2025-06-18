@@ -6,16 +6,7 @@ Bygget med kjærlighet, kaffe og en liten dash dark mode-magikk.
 🚀 Kom i gang
 Kjør opp prosjektet lokalt med:
 
-bash
-Kopier
-Rediger
 npm run dev
-
-# eller, hvis du insisterer:
-
-yarn dev
-pnpm dev
-bun dev
 
 🧭 Åpne http://localhost:3000
 Siden er bygget med Next.js, så alt oppdateres automatisk mens du koder.
