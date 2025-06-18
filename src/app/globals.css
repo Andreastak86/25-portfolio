@@ -19,12 +19,20 @@
     :root {
         --background: #0a0a0a;
         --foreground: #ededed;
-
         --color-primary: #38bdf8;
         --color-secondary: #5eead4;
         --color-accent: #fde047;
         --color-error: #f87171;
     }
+}
+
+html.dark {
+    --background: #0a0a0a;
+    --foreground: #1e3a8a;
+    --color-primary: #38bdf8;
+    --color-secondary: #5eead4;
+    --color-accent: #fde047;
+    --color-error: #f87171;
 }
 
 @keyframes pulse-outline {

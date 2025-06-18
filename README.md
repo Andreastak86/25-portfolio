@@ -1,37 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🦌 25-portfolio – Andreas sin neste digitale katedral.
+Velkommen til kildekoden bak Andreas sin portefølje – en side som ikke bare presenterer kode, men puster, pulserer og snakker med stil (bokstavelig talt, sjekk navbaren 🔵💨).
 
-## Getting Started
+Bygget med kjærlighet, kaffe og en liten dash dark mode-magikk.
 
-First, run the development server:
+🚀 Kom i gang
+Kjør opp prosjektet lokalt med:
 
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🧭 Åpne http://localhost:3000
+Siden er bygget med Next.js, så alt oppdateres automatisk mens du koder.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Du kan begynne å endre ting i src/app/page.tsx, men pass deg – det er her magien skjer ✨
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔥 Teknisk meny
+Teknologi Hvorfor den er her
+Next.js 15 Fordi det er fremtiden – App Router og alt det der
+Tailwind CSS v4.1 Full kraft og all styling via globals.css – ingen tailwind.config.js her 😎
+TypeScript Fordi trygghet er sexy
+Vercel Fordi selvfølgelig deployer vi rett fra GitHub og lar Vercel fikse resten
+React Icons Fordi det finnes et ikon for alt, også Elg 🦌
 
-## Learn More
+✨ Spesielle funksjoner
+🔄 Dark/light mode med systemstøtte og toggle
 
-To learn more about Next.js, take a look at the following resources:
+🧠 Scroll-aktiv modal som spør deg pent om du vil stalke Andreas på LinkedIn
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🎯 Navigasjon med ankerlenker som faktisk funker (takk scroll-mt)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🧼 Semantisk markup du kan vise til skjermlesere og mødre med stolthet
 
-## Deploy on Vercel
+💡 Favicon som faktisk ser bra ut (og er Rein god stil)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📚 Lær mer
+Hvis du ikke er Andreas (😢), men fortsatt vil lære om hvordan dette ble laget, så anbefales:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# 25-portfolio
+Next.js Docs: https://nextjs.org/docs
+
+Tailwind Docs: https://tailwindcss.com/docs/installation/using-vite
+
+Vercel Deployment: https://vercel.com/docs
+
+🌍 Deploy
+Nettsiden lever og ånder på Vercel:
+Klikk her for å se liveversjonen (legg inn din link her)
+
+🤝 Kontakt
+Lurer du på noe? Vil du ansette Andreas? Eller bare slå av en prat om hjort, scroll-observers eller lyspærer?
+
+Ta kontakt på LinkedIn eller besøk #contact-seksjonen på siden.
